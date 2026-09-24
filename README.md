@@ -1,1 +1,0 @@
-Replace the existing index.html in your DBS-India GitHub repository with this file.
